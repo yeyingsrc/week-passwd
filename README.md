@@ -4,8 +4,3 @@
 
 ![2](https://github.com/BBD-YZZ/week-passwd/blob/master/img/9.PNG)
 
-![2](https://github.com/BBD-YZZ/week-passwd/blob/master/img/7.PNG)
-
-![2](https://github.com/BBD-YZZ/week-passwd/blob/master/img/4.PNG)
-
-![2](https://github.com/BBD-YZZ/week-passwd/blob/master/img/5.PNG)
