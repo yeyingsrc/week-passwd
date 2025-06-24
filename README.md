@@ -6,4 +6,6 @@
 
 ![2](https://github.com/BBD-YZZ/week-passwd/blob/master/img/14.PNG)
 
-![3](https://www.star-history.com/#BBD-YZZ/week-passwd&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BBD-YZZ/week-passwd&type=Date)](https://www.star-history.com/#BBD-YZZ/week-passwd&Date)
